@@ -1,0 +1,30 @@
+{
+  "name": "alexa-strong-password-generator",
+  "version": "1.0.0",
+  "description": "Strong password generator for Amazon Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undergrounder/alexa-strong-password-generator.git"
+  },
+  "keywords": [
+    "amazon",
+    "alexa",
+    "password",
+    "generator",
+    "strong"
+  ],
+  "author": "Adrian Tello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Undergrounder/alexa-strong-password-generator/issues"
+  },
+  "homepage": "https://github.com/Undergrounder/alexa-strong-password-generator#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "generate-password": "^1.2.0"
+  }
+}
