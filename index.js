@@ -51,7 +51,7 @@ const languageStrings = {
     'en-GB': {
         translation: {
             SKILL_NAME: 'Strong password generator',
-            WELCOME_MESSAGE: "Welcome to %s.",
+            WELCOME_MESSAGE: "Welcome to %s. You can say thinks like, „generate new password“.",
             WELCOME_REPROMT: 'For instructions on what you can say, please say help me.',
             DISPLAY_CARD_TITLE: '%s  - Generated password.',
             HELP_MESSAGE: "You can generate passwords saying, generate random password, or, you can say exit...Now, what can I help you with?",
@@ -64,7 +64,7 @@ const languageStrings = {
     'en-US': {
         translation: {
             SKILL_NAME: 'Strong password generator',
-            WELCOME_MESSAGE: "Welcome to %s.",
+            WELCOME_MESSAGE: "Welcome to %s. You can say thinks like, „generate new password“.",
             WELCOME_REPROMT: 'For instructions on what you can say, please say help me.',
             DDISPLAY_CARD_TITLE: '%s  - Generated password.',
             HELP_MESSAGE: "You can generate passwords saying, generate random password, or, you can say exit...Now, what can I help you with?",
@@ -77,7 +77,7 @@ const languageStrings = {
     'de-DE': {
         translation: {
             SKILL_NAME: 'Passwort Generator',
-            WELCOME_MESSAGE: 'Willkommen bei %s.',
+            WELCOME_MESSAGE: 'Willkommen bei %s. Du kannst zum Beispiel „Password generieren“ sagen.',
             WELCOME_REPROMT: 'Wenn du wissen möchtest, was du sagen kannst, sag einfach „Hilf mir“.',
             DISPLAY_CARD_TITLE: '%s - Erzeugte Passwort',
             HELP_MESSAGE: 'Du kannst beispielsweise Fragen sagen wie Passwort generieren“ oder du kannst „Beenden“ sagen ... Wie kann ich dir helfen?',
