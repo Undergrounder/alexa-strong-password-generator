@@ -26,7 +26,7 @@ const handlers = {
 
         this.attributes.speechOutput = this.t('RANDOM_PASSWORD_GENERATED');
 		this.attributes.repromptSpeech = this.t('RANDOM_NUMER_REPEAT');
-		this.emit(':askWithCard', this.attributes.speechOutput, this.attributes.repromptSpeech, cardTitle, password);
+		this.emit(':tellWithCard', this.attributes.speechOutput, cardTitle, password);
     },
     'AMAZON.HelpIntent': function () {
         this.attributes.speechOutput = this.t('HELP_MESSAGE');
